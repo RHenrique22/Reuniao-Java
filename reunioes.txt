@@ -1,0 +1,2 @@
+1;09/10/2021 08:00;estoques;joao,maria,jose,ana
+2;10/10/2021 08:00;pagamentos;joao,maria,jose,ana

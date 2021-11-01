@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Reuniao">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jakarta.activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
